@@ -1,0 +1,90 @@
+  "cmbbe2021" :
+  {
+  "title" : "Reconstructing 3D lungs from a single chest X-ray with statistical shape and appearance models",
+  "type" : "Conference oral presentation",
+  "url_slug" : "cmbbe-2021",
+  "venue" : "International conference on Computer Methods in Biomechanics and Biomedical Engineering 2021",
+  "date" : "2021-09-02",
+  "location": "Bonn, Germany (virtual)",
+  "talk_url" :"",
+  "description" : "This talk described our statistical shape model for extracting lungs from 2D chest X-rays."
+  }
+  "ofws2021" :
+  {
+  "title" : "Implementing a Langevin-type turbulent dispersion model for dilute particle-laden flows",
+  "type" : "Conference oral presentation",
+  "url_slug" : "ofws-1",
+  "venue" : "OpenFOAM Workshop 2021",
+  "date" : "2021-06-10",
+  "location": "Dublin, Ireland (virtual)",
+  "talk_url" :"",
+  "description" : "A presentation on our implementation and attempts to validate a stochastic turbulent dispersion model in OpenFOAM."
+  }
+  "esb2021" :
+  {
+  "title" : "Influence of patient breathing and coordination on inhaled drug deposition in image-based models",
+  "type" : "Conference oral presentation",
+  "url_slug" : "esb-2021",
+  "venue" : "European Society of Biomechanics Congress 2021",
+  "date" : "2021-07-14",
+  "location": "Milan, Italy (virtual)",
+  "talk_url" :"",
+  "description" : "This talk focused on comparing drug deposition in different patients. We also compared the effect of delayed inhalation on drug deposition"
+  }
+  "sfmm2021" :
+  {
+  "title" : "Modelling turbulent dispersion of inertial aerosol particles",
+  "type" : "Conference oral presentation",
+  "url_slug" : "sfmm-2021",
+  "venue" : "Scottish Fluid Mechanics Meeting 2021",
+  "date" : "2021-05-27",
+  "location": "Aberdeen, UK (virtual)",
+  "talk_url" :"",
+  "description" : "",
+  }
+
+  "rdd2021" :
+  {
+  "title" : "Evaluating Aerosol Drug Deposition During Exacerbation and Healthy Breathing Using Medical Image-Based Models.",
+  "type" : "Conference poster presentation",
+  "url_slug" : "rdd-2021",
+  "venue" : "Respiratory Drug Delivery 2021",
+  "date" : "2021-05-04",
+  "location": "Virtual",
+  "talk_url" :"",
+  "description" : "In this poster, we compared the influence of varying patient inhalation on drug deposition.",
+  }
+  "nanotox2021" :
+  {
+  "title" : "Personalised 3D lung deposition models – better understanding of particle deposition in diseased lung airways",
+  "type" : "Conference poster presentation",
+  "url_slug" : "nanotox-2021",
+  "venue" : "International Conference on Nanotoxicology 2021",
+  "date" : "2021-04-22",
+  "location": "Edinburgh, UK (virtual)",
+  "talk_url" :"",
+  "description" : "",
+  }
+  "sfmm2020" :
+  {
+  "title" : "Image-based inhaler deposition analysis during respiratory exacerbation",
+  "type" : "Conference oral presentation",
+  "url_slug" : "sfmm-2020",
+  "venue" : "Scottish Fluid Mechanics Meeting 2020",
+  "date" : "2020-05-28",
+  "location": "Edinburgh, UK (virtual)",
+  "talk_url" :"",
+  "description" : "",
+  }
+  "sfmm2019" :
+  {
+  "title" : "FDA nozzle validation study",
+  "type" : "Conference poster presentation",
+  "url_slug" : "sfmm-2019",
+  "venue" : "Scottish Fluid Mechanics Meeting 2019",
+  "date" : "2019-05-30",
+  "location": "Dundee, UK",
+  "talk_url" :"https://www.researchgate.net/publication/359872858_FDA_Nozzle_Validation_Study",
+  "description" : "In this poster, we discuss validation of several turbulence models at varying Reynolds number in the FDA nozzle geometry.",
+  }
+
