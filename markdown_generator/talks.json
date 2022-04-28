@@ -1,3 +1,36 @@
+  "iutam2022" :
+  {
+  "title" : "Modelling turbulent dispersion with neural stochastic differential equations",
+  "type" : "Conference oral presentation",
+  "url_slug" : "iutam-2022",
+  "venue" : "IUTAM symposium: From Stokesian suspension dynamics to particulate flows in turbulence",
+  "date" : "2022-08-29",
+  "location": "Toulouse, France",
+  "talk_url" :"",
+  "description" : ""
+  }
+  "ofws2022" :
+  {
+  "title" : "Implementation of neural stochastic differential equations for particle dispersion in OpenFOAM",
+  "type" : "Conference oral presentation",
+  "url_slug" : "ofws-2",
+  "venue" : "OpenFOAM Workshop 2022",
+  "date" : "2022-07-14",
+  "location": "Cambridge, UK",
+  "talk_url" :"",
+  "description" : ""
+  }
+  "esb2022" :
+  {
+  "title" : "Generating 3D personalised respiratory domains for deposition models from CT and chest X-rays",
+  "type" : "Conference oral presentation",
+  "url_slug" : "esb-2",
+  "venue" : "European Society of Biomechanics Congress 2022",
+  "date" : "2022-06-28",
+  "location": "Porto, Portugal",
+  "talk_url" :"",
+  "description" : ""
+  }
   "cmbbe2021" :
   {
   "title" : "Reconstructing 3D lungs from a single chest X-ray with statistical shape and appearance models",
