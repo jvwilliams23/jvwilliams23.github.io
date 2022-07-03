@@ -31,6 +31,17 @@
   "talk_url" :"",
   "description" : ""
   }
+  "sfmm2022" :
+  {
+  "title" : "Neural stochastic differential equations for particle dispersion in homogeneous isotropic turbulent flows",
+  "type" : "Conference oral presentation",
+  "url_slug" : "sfmm-2022",
+  "venue" : "Scottish Fluid Mechanics Meeting 2022",
+  "date" : "2020-05-26",
+  "location": "Oban, UK",
+  "talk_url" :"",
+  "description" : "",
+  }
   "cmbbe2021" :
   {
   "title" : "Reconstructing 3D lungs from a single chest X-ray with statistical shape and appearance models",
@@ -75,7 +86,6 @@
   "talk_url" :"",
   "description" : "",
   }
-
   "rdd2021" :
   {
   "title" : "Evaluating Aerosol Drug Deposition During Exacerbation and Healthy Breathing Using Medical Image-Based Models.",
