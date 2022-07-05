@@ -2,4 +2,5 @@ _site/
 *.tgz
 *.sh
 *checkpoints
+JW_README.md
 
