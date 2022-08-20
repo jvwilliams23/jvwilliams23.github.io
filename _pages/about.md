@@ -13,10 +13,10 @@ Hi, my name is Josh Williams! I am a third year PhD candidate at Heriot-Watt Uni
 My main research interests include:
 
 * Mathematical modelling
-    * Computational fluid dynamics (OpenFOAM)
+    * Computational fluid dynamics with OpenFOAM (multiphase flows and biofluids)
     * Granular flows (LIGGGHTS/CFDEMcoupling)
 * Combining machine learning with physical modelling
-    * Neural differential equations - **paper coming soon!**
+    * Neural differential equations ([**paper link**](https://arxiv.org/abs/2208.08156))
 * Image-processing
     * Convolutional neural networks
     * Statistical shape and appearance models
