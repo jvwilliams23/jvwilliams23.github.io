@@ -16,7 +16,7 @@ My main research interests include:
     * Computational fluid dynamics with OpenFOAM (multiphase flows and biofluids)
     * Granular flows (LIGGGHTS/CFDEMcoupling)
 * Combining machine learning with physical modelling
-    * Neural differential equations ([**paper link**](https://arxiv.org/abs/2208.08156))
+    * Neural differential equations ([**paper link**](https://doi.org/10.1063/5.0121344))
 * Image-processing
     * Convolutional neural networks
     * Statistical shape and appearance models

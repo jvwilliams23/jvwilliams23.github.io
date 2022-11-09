@@ -3,10 +3,10 @@ title: "Neural stochastic differential equations for particle dispersion in larg
 collection: publications
 permalink: /publication/2022-dispersionArXiv
 excerpt: ''
-date: 2022-08-17
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2208.08156'
-citation: 'Williams, J., Wolfram, U. and Ozel, A., 2022. Neural stochastic differential equations for particle dispersion in large-eddy simulations of homogeneous isotropic turbulence. arXiv preprint arXiv:2208.08156'
+date: 2022-11-04
+venue: 'Physics of Fluids'
+paperurl: 'https://doi.org/10.1063/5.0121344'
+citation: 'Williams, J., Wolfram, U. and Ozel, A., 2022. "Neural stochastic differential equations for particle dispersion in large-eddy simulations of homogeneous isotropic turbulence", Physics of Fluids 34, 113315'
 ---
 
 Highlights:
