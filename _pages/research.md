@@ -10,7 +10,7 @@ author_profile: true
 My main experience lies in modelling and simulation of turbulent single- and multiphase flows at a continuum scale. I am interested in this at a fundamental level (e.g. LES and DNS of canonical flows such as turbulent channel flow) and studying applications of these flows (such as [aerosol drug transport in patient airways](https://doi.org/10.1016/j.ijpharm.2021.121321)).
 
 ### Applications of CFD simulations
-I like to study fluid dynamics in 'real-world' applications, to see how flow structures influence relevant quantities of interest such as drug deposition in lung airways ([Int. J. Pharmaceutics paper](https://doi.org/10.1016/j.ijpharm.2021.121321)), or efficiency of industrial processes.
+I like to study fluid dynamics in 'real-world' applications, to see how flow structures influence relevant quantities of interest such as drug deposition in lung airways ([Int. J. Pharm. paper](https://doi.org/10.1016/j.ijpharm.2021.121321)), or efficiency of industrial processes.
 
 
 <img src="/imagesjw/deposition_example.png"  width="70%">
