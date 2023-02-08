@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Josh Williams! I am a third year PhD candidate at Heriot-Watt University (Edinburgh, UK). I am funded by the [Carnegie-Trust for the Universities of Scotland](https://www.carnegie-trust.org/alumni/josh-williams-2/). My research is focussed towards improving dispersion and deposition of inhaled therapeutics in respiratory patients' lungs. 
+Hi, my name is Josh Williams! I am a computational scientist at STFC, Hartree Centre. I am also PhD candidate at Heriot-Watt University (Edinburgh, UK). I am funded by the [Carnegie-Trust for the Universities of Scotland](https://www.carnegie-trust.org/alumni/josh-williams-2/). My research is focussed towards improving dispersion and deposition of inhaled therapeutics in respiratory patients' lungs. 
 
-My main research interests include:
+My main [research interests](/research) include:
 
 * Mathematical modelling
     * Computational fluid dynamics with OpenFOAM (multiphase flows and biofluids)
