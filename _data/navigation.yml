@@ -6,3 +6,5 @@ main:
     url: /talks/
   - title: "Research interests"
     url: /research
+  - title: "Code"
+    url: /code

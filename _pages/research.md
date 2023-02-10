@@ -12,7 +12,6 @@ My main experience lies in modelling and simulation of turbulent single- and mul
 ### Applications of CFD simulations
 I like to study fluid dynamics in 'real-world' applications, to see how flow structures influence relevant quantities of interest such as drug deposition in lung airways ([Int. J. Pharm. paper](https://doi.org/10.1016/j.ijpharm.2021.121321)), or efficiency of industrial processes.
 
-
 <img src="/imagesjw/deposition_example.png"  width="70%">
 
 ### Data-driven modelling of multiphase flows
@@ -24,7 +23,7 @@ with the goal of incorporating in real applications such as modelling drug inhal
 <img src="/imagesjw/dispersion-overview.png"  width="70%">
 
 ## Image analysis/quantitative imaging
-I am interested in developing image analysis pipelines to extract metrics that describe the morphology of complex structures such as lung airways (figure below). Specifically, I am interested in how the structure of these organs correlates to function. For example, how does airway shape influence the deposition of aerosols in CFD simulations.
+I am interested in developing image analysis pipelines to extract metrics that describe the morphology of complex structures such as lung airways (figure below). Specifically, I am interested in how the structure of these organs correlates to function. For example, how does airway shape influence the deposition of aerosols in CFD simulations? How can we use machine learning to find new features that correlate well with organ function? 
 
 Previously, we have developed a Python package for statistical shape and appearance modelling (<a href='https://arxiv.org/abs/2301.04416'>pyssam</a>), which can be used to analyse correlation of complex shapes
 over a population.
