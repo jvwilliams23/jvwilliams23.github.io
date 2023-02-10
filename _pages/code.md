@@ -5,7 +5,7 @@ permalink: /code
 author_profile: true
 ---
 
-## [Python Statistical shape and appearance modelling (pyssam)](https://github.com/jvwilliams23/pyssam)
+## [Python statistical shape and appearance modelling (pyssam)](https://github.com/jvwilliams23/pyssam)
 
 We have developed an API for creating statistical shape and appearance models (SSAMs) from landmark data. This can be used to extract features that describe correlations in complex shapes such as human organs. These SSAMs can also serve as a prior constraint for new segmentation algorithms.
 
