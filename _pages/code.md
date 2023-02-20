@@ -13,6 +13,9 @@ We have developed an API for creating statistical shape and appearance models (S
 
 The code to train a stochastic model for turbulent dispersion is available on github. We also provide OpenFOAM code to read the neural network parameters and use the model in a simulation. The OpenFOAM code could be adapted to other stochastic models (theoretical or data-driven), and for other physical phenomena. The training script could be adapted to new training data.
 
+## [CNN Toolkit for segmentation of airways and lungs from CT](https://github.com/jvwilliams23/respiratoryCNN-toolkit)
+We provide code for training and segmenting airways and lungs from CT scans using CNNs (U-Net and ENet). Lung segmentation is performed by [lungmask](https://github.com/JoHof/lungmask) which was trained on better data than was available to us. The lung segmentation can be used to crop the chest CT image to the lung lobes bounding box which improves efficiency of the airway segmentation.
+
 ## [deepLungFoam solver](https://github.com/jvwilliams23/deepLungFoam)
 
 We couple an OpenFOAM simulation to a 0D resistance-compliance model that approximates outlet pressure. This can be used to simulate flow distribution for outlets in biological flows such as lung airways or vascular system.
